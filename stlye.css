@@ -1,0 +1,31 @@
+ body{
+    background-color: whitesmoke;
+ }
+ .main{
+    display: flex;
+    color: rgba(250, 235, 215, 0.542);
+ }
+ .logo{
+    padding-bottom: 30px;
+ }
+ img{
+    width: 150px;
+    height: 70px;
+}
+.span{
+    color: orange;
+    font-size: 30px;
+}
+span{
+    color: black;
+    font-size: 30px;
+}
+.nav{
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+    font-size: 20px;
+}
